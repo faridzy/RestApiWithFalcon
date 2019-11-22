@@ -1,0 +1,7 @@
+.history
+.vscode
+.idea
+.venv
+.DS_Store
+__pycache__/
+*.py[cod]
